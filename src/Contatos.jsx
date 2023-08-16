@@ -22,7 +22,7 @@ function Contatos() {
                         Este SAP (Single Application Page) foi desenvolvido por mim como parte do meu portifólio e como um currículum vitae mais interativo. Nos extras terá mais informações sobre as técnologias utilizadas em seu desenvolvimento.
                     </p>
                     <p>
-                        Agradeço a todos que tenham visualizado esta página, sendo você recrutador, apreciador ou um amigo.
+                        Agradeço a todos que tenham visualizado esta página, seja você recrutador, apreciador ou um amigo.
                     </p>
                     <p>
                         Obrigado!

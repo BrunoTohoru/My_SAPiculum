@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.camada {
+    position: static;
+    width: 1200px;
+    height: 700px;
+    background: #fce066;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 10px;
+    border-bottom-style: outset;
+    border-right-style: outset;
+    border-right-width: 10px;
+    border-right-color: hsl(46, 93%, 58%);
+    border-bottom-color: hsl(46, 93%, 58%);
+    
+}

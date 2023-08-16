@@ -1,0 +1,30 @@
+.fotoIfpr {
+    border: 4px solid rgb(207, 205, 205);
+    position: relative;
+    justify-content: center;
+    top: 100px;
+    left: 3em;
+    width: 480px;
+    height: 320px;
+}
+
+.selo {
+    right: 20px;
+    position: relative;
+}
+
+.fotoUtfpr {
+    border: 4px solid rgb(207, 205, 205);
+    position: relative;
+    justify-content: center;
+    top: 100px;
+    left: 3em;
+    width: 480px;
+    height: 320px;
+}
+
+.fotoCivil{
+    width: 300px;
+    position: relative;
+    left: 330px;
+}

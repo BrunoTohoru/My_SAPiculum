@@ -13,9 +13,7 @@ function Experiencias() {
                     </p>
                     <hr />
                     <p>
-                        Assessoria ambiental de empreendimentos potêncialmente poluidoras, realizando visitas técnicas com o
-                        objetivo de identificar e orientar os emprendimento conforme suas necessidades e mante-los em conformidade
-                        com suas licenças ambientais.
+                        Assessoria ambiental de empreendimentos potencialmente poluidoras, realizando visitas técnicas com o objetivo de identificar e orientar os empreendimentos conforme suas necessidades e mantê-los em conformidade com suas licenças ambientais.
                     </p>
                     <p>
                         Neste cargo, a comunicação eficaz com clientes e equipe mostrou-se crucial, exigindo múltiplas orientações técnicas sobre a relevância da consciência ambiental e as exigências correspondentes estabelecidas nas licenças. Além disso, enfrentamos desafios que demandavam soluções ágeis, destacando a importância de uma equipe comprometida e proativa.
